@@ -108,10 +108,6 @@ Pronunciado "Rãbou" (por causa do telescópio). Uma #spokenDSL (microlinguagem 
 
 http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19970040497.pdf
 
-## Praticando
-
-Para entrar no grupo moderado de falantes, envie zapzap para topesi topesi tosi to tosi kasi kasi to te kapesi te.
-
 ## Criando a sua
 
 Um trabalho mais completo e superior por outro autor está disponível aqui: http://ref.castedo.com/binspeak/index.html
