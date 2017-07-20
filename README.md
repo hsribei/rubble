@@ -9,7 +9,7 @@ Pronunciado "Rãbou" (por causa do telescópio). Uma #spokenDSL (microlinguagem 
 			</td>
 			<td>0</td>
 			<td>0</td>
-			<td>te</td>
+			<td>na</td>
 		</tr>
 		<tr>
 			<td>0001</td>
